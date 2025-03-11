@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>PRUEBA</h1>
+    <?php 
+        phpinfo();
+    ?>
 </body>
 </html>
